@@ -1,0 +1,4 @@
+2023-03-13T11:53:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Wordpress\wp-content\plugins\elementor\includes\widgets\icon-box.php on line 4
+
+2023-03-13T11:53:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Wordpress\wp-includes\class-wp-theme.php on line 1248
+
